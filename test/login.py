@@ -9,3 +9,5 @@ a = num1 + num2 + num3
 print(a)
 
 num4 = 100
+
+num5 = 101
